@@ -59,26 +59,6 @@ On the Debian GNU/Linux operating system, as of March 2013, the latest stable ve
 gem 'mongoid', '~> 3.0.1'
 </pre>
 
-h2. Getting the Application
-
-You have several options for getting the code.
-
-h3. Fork
-
-If you'd like to add features (or bug fixes) to improve the example application, you can fork the GitHub repo and "make pull requests":http://help.github.com/send-pull-requests/. Your code contributions are welcome!
-
-h3. Clone
-
-If you want to copy and customize the app with changes that are only useful for your own project, you can clone the GitHub repo. You'll need to search-and-replace the project name throughout the application. You probably should generate the app instead (see below). To clone:
-
-<pre>
-$ git clone git://github.com/RailsApps/rails3-mongoid-devise.git
-</pre>
-
-You'll need "git":http://git-scm.com/ on your machine. See "Rails and Git":http://railsapps.github.io/rails-git.html.
-
-h3. Generate
-
 If you want to use the project as a starter app, use the "Rails Composer":http://railsapps.github.io/rails-composer/ tool to generate a new version of the example app. You'll be able to give it your own project name when you generate the app. Generating the application gives you many additional options.
 
 To build the example application, run the command:
